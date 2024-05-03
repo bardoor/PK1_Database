@@ -78,3 +78,6 @@ WHERE ID = 9;
 UPDATE animals
 SET Species = "Elephant"
 WHERE ID = 10;
+
+ALTER TABLE animals
+DROP COLUMN Nickname;
