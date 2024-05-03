@@ -1,0 +1,7 @@
+CREATE TABLE animals(
+		ID BIGINT PRIMARY KEY AUTO_INCREMENT,
+	Datebirth DATE,
+    Age TINYINT UNSIGNED,
+    Counteatmaet FLOAT NOT NULL,
+    Nickname VARCHAR(100) UNIQUE
+);
