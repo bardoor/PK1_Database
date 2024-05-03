@@ -35,3 +35,6 @@ VALUES(NULL, "01.02.2023", 1, 0.5, "Kok");
 
 INSERT INTO animals
 VALUES(NULL, "23.11.2014", 10, 11.1, "Uop");
+
+ALTER TABLE animals
+ADD COLUMN Species VARCHAR(75);
