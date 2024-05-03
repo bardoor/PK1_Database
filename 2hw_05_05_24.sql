@@ -38,3 +38,43 @@ VALUES(NULL, "23.11.2014", 10, 11.1, "Uop");
 
 ALTER TABLE animals
 ADD COLUMN Species VARCHAR(75);
+
+UPDATE animals
+SET Species = "Dolphin"
+WHERE ID = 1;
+
+UPDATE animals
+SET Species = "Dog"
+WHERE ID = 2;
+
+UPDATE animals
+SET Species = "Lion"
+WHERE ID = 3;
+
+UPDATE animals
+SET Species = "Puma"
+WHERE ID = 4;
+
+UPDATE animals
+SET Species = "Turtle"
+WHERE ID = 5;
+
+UPDATE animals
+SET Species = "Bear"
+WHERE ID = 6;
+
+UPDATE animals
+SET Species = "Cat"
+WHERE ID = 7;
+
+UPDATE animals
+SET Species = "Jaguar"
+WHERE ID = 8;
+
+UPDATE animals
+SET Species = "Hamster"
+WHERE ID = 9;
+
+UPDATE animals
+SET Species = "Elephant"
+WHERE ID = 10;
