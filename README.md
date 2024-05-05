@@ -1,6 +1,7 @@
 # ПК 1. Модуль "Базы данных"
-
 Здравствуй студент! Здесь ты вскоре увидишь полезные материалы по MySQL
+
+[**Табличка по успехам в дз**](https://docs.google.com/spreadsheets/d/1b9qmkczjhg-ZaKzQvKZCppi8G0Fyt2eLMXSGLWA9AsU/edit#gid=0)
 
 # Правила
 1. Коммитим **только** в свою ветку
