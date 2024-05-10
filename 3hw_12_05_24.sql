@@ -46,3 +46,18 @@ CREATE TABLE users(
     Surname VARCHAR(100),
     Age INT UNSIGNED
 );
+
+INSERT INTO users
+VALUES(NULL, "Алексей", "Александрович", "Гончаров", 19);
+
+INSERT INTO users
+VALUES(NULL, "Иван", "Андреевич", "Соловьёв", 25);
+
+INSERT INTO users
+VALUES(NULL, "Александр", "Михайдович", "Демидов", 16);
+
+INSERT INTO users
+VALUES(NULL, "Дмитрий", "Иванович", "Афанасьев", 23);
+
+INSERT INTO users
+VALUES(NULL, "Екатерина", "Андреевна", "Чучмелова", 30);
