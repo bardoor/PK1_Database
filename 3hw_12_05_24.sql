@@ -1,0 +1,7 @@
+CREATE TABLE shop_techunique(
+	ID BIGINT PRIMARY KEY AUTO_INCREMENT,
+	Type VARCHAR(100) NOT NULL,
+    Year_made DATE,
+    Brend VARCHAR(100),
+    Name VARCHAR(100) NOT NULL
+);
