@@ -5,3 +5,18 @@ CREATE TABLE shop_techunique(
     Brend VARCHAR(100),
     Name VARCHAR(100) NOT NULL
 );
+
+INSERT INTO shop_techunique
+VALUES(NULL, "PHONE", "10.12.2023", "SULMNSUNG", "A51");
+
+INSERT INTO shop_techunique
+VALUES(NULL, "TV", "15.10.2023", "APPLE", "PRO +");
+
+INSERT INTO shop_techunique
+VALUES(NULL, "PHONE", "01.02.2023", "SULMNSUNG", "S23 ULTRA");
+
+INSERT INTO shop_techunique
+VALUES(NULL, "LAPTOP", "11.11.2023", "APPLE", "AIR +");
+
+INSERT INTO shop_techunique
+VALUES(NULL, "TV", "15.09.2023", "XIAOMI", "SUPER TV");
